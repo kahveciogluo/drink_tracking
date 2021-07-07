@@ -1,16 +1,7 @@
-# drink_tracking
+My first Flutter project.
 
-A new Flutter application.
+It is drink tracking app that you can track water,coffee and tea you drink that day.
 
-## Getting Started
+07.07.2021
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is on Google Play Store now :)
